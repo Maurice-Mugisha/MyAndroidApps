@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2dc642e0e0215f32cbf539372f7847ff7ec9140e">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/instant-run_b38b3351c81b854ee7954a287b94f35d009a7b29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_913028177f421cb278cefe96f8d797620032a904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/2.3.1/1c1c75a7e1dfee58c51822987dc658f93e036c81/realm-annotations-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c1c75a7e1dfee58c51822987dc658f93e036c81">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/realm-annotations-2.3.1_f92a36207a087fae09e99dafba3f5c9ec1b9e35f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/exploded-aar/io.realm/realm-android-library-object-server/2.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed131c440128f44f560165e04008ee1d81c638ea">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/io.realm-realm-android-library-object-server-2.3.1_78a993dec16f9c82d96433ed92fa3d26b590758f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_17ec746c6a4092c4ee1bc03847ed9b8006bb87b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_7c1898f34e34066e0ded2ef7f98dbb429d4bcdba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_9176aea68dc3f8824a5f61f7755ccc68f1e8307b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/com.getkeepsafe.relinker-relinker-1.2.2_ec09c303c256c7e4ead0a9807aac80ba91d5f499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/exploded-aar/io.realm/android-adapters/1.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ae57cc4afcb7ed42ee18f3c0a0a87f4ec3e783f">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/io.realm-android-adapters-1.4.0_785c707f2fa99ee73bf918863b6532dd2eac66b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_6d77c9e80c66fd9ef3ea19092abfce02822a6490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/okio-1.9.0_c062374d92343e02ad68a7321de3538b066bea1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_408991f33778708a1373d9883dde2c891ce98535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3a390ca03595502ddbeda704077b1ffe9a30cc0">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_f85b2e83d1ed8a22ed343d80808f97e67d1425b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_afdd162f703c9a0f6283b9ca89d0eb440ddd4fd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_738cbb1cd9bc14ef4d3d76c732e10f2775044802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_87478369d7c564742f63bef76ae65126feb2f974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_caa633bf8421f57dafc50fda4f9d022eda047874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_496c79f809452d021f704ef66f9338a2270a9d03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/jst/AndroidStudioProjects/thingBrowser/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_7196d795e244b3c276669ca08b9a480bcc0cf77e.jar" />
+    </item>
+
+</items>

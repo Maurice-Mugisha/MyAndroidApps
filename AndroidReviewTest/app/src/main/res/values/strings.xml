@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidReviewTest</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="username"> Username (email)</string>
+    <string name="password">  Password</string>
+    <string name="re_password">  Retype password</string>
+    <string name="fname">  First name</string>
+    <string name="lname">  Last name</string>
+    <string name="oname">  Other names</string>
+    <string name="email">  Email</string>
+    <string name="gender">  Gender</string>
+    <string name="male">  Male</string>
+    <string name="female">  Female</string>
+    <string name="personal_info"> Personal info</string>
+    <string name="important"> Important</string>
+</resources>

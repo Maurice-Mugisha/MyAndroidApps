@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".TingleActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/recently_added_banner_height"
+            android:text="@string/last_added"
+            android:textColor="@color/white"
+            android:textSize="@dimen/recently_added_banner_text_size"
+            android:fontFamily="@string/cambria"
+            android:textAlignment="center"
+            android:layout_marginTop="@dimen/top_vertical_spacing"
+            android:layout_marginLeft="@dimen/textbox_margin"
+            android:layout_marginRight="@dimen/textbox_margin"
+            android:background="@color/recently_added_banner_color"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/textbox_height"
+            android:textColor="@color/white"
+            android:textSize="@dimen/recently_added_banner_text_size"
+            android:fontFamily="@string/cambria"
+            android:textAlignment="center"
+            android:layout_marginTop="@dimen/top_vertical_spacing"
+            android:layout_marginLeft="@dimen/textbox_margin"
+            android:layout_marginRight="@dimen/textbox_margin"
+            android:background="@color/recently_added_banner_color"
+            android:id="@+id/last_added"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/textbox_height"
+            android:inputType="text|textAutoComplete|textCapSentences"
+            android:id="@+id/what"
+            android:background="@color/white"
+            android:layout_marginLeft="@dimen/textbox_margin"
+            android:layout_marginRight="@dimen/textbox_margin"
+            android:layout_marginTop="@dimen/vertical_spacing"
+            android:paddingLeft="@dimen/simple_padding"
+            android:paddingRight="@dimen/simple_padding"
+            android:hint="@string/what" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/textbox_height"
+            android:inputType="text|textAutoComplete|textCapSentences"
+            android:id="@+id/where"
+            android:background="@color/white"
+            android:layout_marginLeft="@dimen/textbox_margin"
+            android:layout_marginRight="@dimen/textbox_margin"
+            android:layout_marginTop="@dimen/vertical_spacing"
+            android:paddingLeft="@dimen/simple_padding"
+            android:paddingRight="@dimen/simple_padding"
+            android:hint="@string/where" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/add_button_height"
+                android:background="@color/maroon"
+                android:textColor="@color/white"
+                android:text="@string/add"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="@dimen/textbox_margin"
+                android:layout_marginTop="@dimen/vertical_spacing"
+                android:padding="@dimen/simple_padding"
+                android:id="@+id/add_button"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/add_button_height"
+                android:background="@color/dark_green"
+                android:textColor="@color/white"
+                android:text="@string/list"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="@dimen/button_margin_right"
+                android:layout_marginRight="@dimen/button_margin_right"
+                android:layout_marginTop="@dimen/vertical_spacing"
+                android:id="@+id/view_button"
+                android:onClick="changeToViewList"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+</ScrollView>

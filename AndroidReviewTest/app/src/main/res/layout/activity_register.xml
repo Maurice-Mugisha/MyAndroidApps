@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="@dimen/sidePadding"
+        android:paddingRight="@dimen/sidePadding"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/user_info"
+            android:text="@string/personal_info"
+            android:background="@color/gray_bg"
+            android:textColor="@color/white_text"
+            android:textAlignment="center"
+            android:paddingTop="8dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/user_info"
+            android:hint="@string/fname"
+            android:background="@color/white_bg"
+            android:inputType="text|textAutoComplete"
+            android:id="@+id/fname"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/user_info"
+            android:hint="@string/lname"
+            android:background="@color/white_bg"
+            android:inputType="text|textAutoComplete"
+            android:id="@+id/lname"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/user_info"
+            android:hint="@string/oname"
+            android:background="@color/white_bg"
+            android:inputType="text|textAutoComplete"
+            android:id="@+id/oname"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/user_info"
+            android:layout_marginTop="@dimen/editText_margin"
+            android:text="@string/gender"
+            android:background="@color/light_gray_bg"
+            android:textColor="@color/white_text"
+            android:textAlignment="center"
+            android:paddingTop="8dp"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/male"
+                android:id="@+id/male"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/female"
+                android:id="@+id/female"/>
+        </RadioGroup>
+
+    </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/user_info"
+            android:layout_marginTop="@dimen/editText_margin"
+            android:text="@string/important"
+            android:background="@color/gray_bg"
+            android:textColor="@color/white_text"
+            android:textAlignment="center"
+            android:paddingTop="8dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/user_info"
+            android:layout_marginTop="@dimen/editText_margin"
+            android:hint="@string/email"
+            android:background="@color/white_bg"
+            android:inputType="textEmailAddress"
+            android:id="@+id/email"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/user_info"
+            android:layout_marginTop="@dimen/editText_margin"
+            android:hint="@string/password"
+            android:background="@color/white_bg"
+            android:inputType="textPassword"
+            android:id="@+id/password"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/user_info"
+            android:layout_marginTop="@dimen/editText_margin"
+            android:hint="@string/re_password"
+            android:background="@color/white_bg"
+            android:inputType="textPassword"
+            android:id="@+id/re_password"/>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/activity_one_button_height"
+            android:layout_marginBottom="@dimen/editText_margin"
+            android:layout_marginTop="@dimen/editText_margin"
+            android:text="@string/register"
+            android:background="@color/register"
+            android:textColor="@color/white_text"
+            android:textSize="20dp"
+            android:padding="2dp"
+            android:onClick="register"
+            android:id="@+id/register"/>
+
+    </LinearLayout>
+</ScrollView>

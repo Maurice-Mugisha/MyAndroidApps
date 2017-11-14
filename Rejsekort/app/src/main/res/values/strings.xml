@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rejsekort</string>
+    <string name="trip_register">Opening trip register ...</string>
+    <string name="retrieve_account_info">Retrieving account Info ...</string>
+    <string name="registration">Adding details</string>
+    <string name="saved">Successfully saved</string>
+    <string name="proceed">Proceed</string>
+</resources>

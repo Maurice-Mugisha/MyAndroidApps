@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_list_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="@dimen/vertical_spacing"
+    android:paddingBottom="@dimen/vertical_spacing"
+    android:textSize="@dimen/list_font_size">
+
+    </TextView>

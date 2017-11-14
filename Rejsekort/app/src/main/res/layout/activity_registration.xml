@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_registration"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:backgroundTint="@color/black">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerVertical="true"
+        android:background="@color/darkgray">
+    <EditText
+        android:hint="First name"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:id="@+id/firstName"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/white"
+        android:inputType="text|textCapWords"/>
+
+    <EditText
+        android:hint="Last name"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="40dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/lastName"
+        android:background="@color/white"
+        android:inputType="text|textCapWords"/>
+
+
+        <EditText
+            android:hint="Account number"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:id="@+id/accountNumber"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="40dp"
+            android:background="@color/white"
+            android:inputType="number"/>
+
+        <EditText
+            android:hint="PIN"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginBottom="40dp"
+            android:layout_marginTop="20dp"
+            android:id="@+id/pin"
+            android:background="@color/white"
+            android:inputType="number"/>
+
+    <Button
+        android:text="REGISTER"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:background="@color/black"
+        android:id="@+id/saveButton" />
+
+
+</LinearLayout>
+
+</RelativeLayout>

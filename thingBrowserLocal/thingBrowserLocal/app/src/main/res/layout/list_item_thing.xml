@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content">
+
+  <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#767272"
+                android:orientation="horizontal"
+                android:layout_marginBottom="@dimen/spacing"
+                android:id="@+id/thing_description" >
+
+    <TextView
+      android:id="@+id/thing_what"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:padding="5dp"
+      android:layout_weight="1"
+      android:textSize="@dimen/list_text_size"
+      android:maxLength="10"/>
+
+    <TextView
+      android:id="@+id/thing_where"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:padding="5dp"
+      android:layout_weight="1"
+      android:textSize="@dimen/list_text_size"/>
+  </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Venlighed</string>
+    <string name="slide_text">%1$d</string>
+    <string name="title_template_step">%1$d</string>
+</resources>

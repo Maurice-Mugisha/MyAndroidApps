@@ -1,0 +1,30 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/action_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/add_button_height"
+        android:background="@color/brown"
+        android:textColor="@color/white"
+        android:text="@string/adding"
+        android:layout_marginTop="@dimen/vertical_spacing"
+        android:padding="@dimen/simple_padding"
+        android:id="@+id/add_fragment_button"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/add_button_height"
+        android:background="@color/army_green"
+        android:textColor="@color/white"
+        android:text="@string/viewing"
+        android:layout_marginTop="@dimen/vertical_spacing"
+        android:padding="@dimen/simple_padding"
+        android:id="@+id/view_fragment_button"/>
+
+</LinearLayout>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TingleV3</string>
+    <string name="what">\t\tWhat thing</string>
+    <string name="where">\t\tWhere</string>
+    <string name="last_added">Recently added</string>
+    <string name="add">ADD NEW THING</string>
+    <string name="adding">ADD NEW THINGS</string>
+    <string name="view">VIEW</string>
+    <string name="viewing">VIEW</string>
+    <string name="search">Search</string>
+    <string name="cambria">cambria</string>
+    <string name="added_toast">New item added&#8230;</string>
+    <string name="list">View Items</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action">Action</string>
+    <string name="view_fragment">Manage Things</string>
+    <string name="add_fragment_text">Add things</string>
+</resources>
+

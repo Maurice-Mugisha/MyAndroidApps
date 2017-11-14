@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="maroon">#8b3636</color>
+    <color name="dark_green">#143e1d</color>
+    <color name="background">#bec1bf</color>
+    <color name="recently_added_banner_color">#333333</color>
+    <color name="dark_gray">#333333</color>
+    <color name="black">#000000</color>
+    <color name="brown">#FF180A0A</color>
+    <color name="army_green">#FF0C1D08</color>
+</resources>

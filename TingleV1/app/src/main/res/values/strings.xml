@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tingle</string>
+    <string name="what">\t\tWhat thing</string>
+    <string name="where">\t\tWhere</string>
+    <string name="last_added">Recently added</string>
+    <string name="add">ADD NEW THING</string>
+    <string name="view">VIEW</string>
+    <string name="search">Search</string>
+    <string name="cambria">cambria</string>
+    <string name="added_toast">New item added ...</string>
+    <string name="ble_not_supported">Unsupported bluetooth capability</string>
+</resources>

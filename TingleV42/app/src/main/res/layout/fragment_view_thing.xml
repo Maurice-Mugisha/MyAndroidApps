@@ -1,0 +1,19 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:textColor="@color/white"
+    android:layout_marginTop="@dimen/textbox_margin"
+    android:background="@color/dark_green"
+    android:id="@+id/fragment_view_thing">
+
+    <ListView
+        android:id="@+id/list_view"
+        android:layout_marginTop="@dimen/textbox_margin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/list_font_size"/>
+
+</RelativeLayout>
